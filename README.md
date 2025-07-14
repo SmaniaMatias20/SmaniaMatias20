@@ -17,7 +17,7 @@
 
 ### 📫 ¿Cómo contactarme?
 - 📧 **Email:** [matiasezequielsmania@gmail.com](mailto:matiasezequielsmania@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/matias-smania](https://www.linkedin.com/in/matias-ezequiel-smania-8035a6188/)]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/matias-smania](https://www.linkedin.com/in/matias-ezequiel-smania-8035a6188/)
 - 💻 **GitHub:** [https://github.com/SmaniaMatias20](https://github.com/SmaniaMatias20)
 
 ---

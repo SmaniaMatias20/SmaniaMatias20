@@ -4,16 +4,6 @@
 💻 Desarrollador Full Stack Jr. | 📚 Estudiante de la Tecnicatura Universitaria en Programación (UTN)  
 </p>
 
----
-
-### 🚀 Sobre mí
-- 👨‍💻 Actualmente trabajando con **React, Node.js, C# .NET Framework 4.8, y SQL Server**.
-- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN (Universidad Tecnológica Nacional)**.
-- 📚 Formación adicional en **Argentina Programa 4.0**: Java, Python, Programación Orientada a Objetos y Bases de Datos.
-- 💡 Me interesa el desarrollo de **aplicaciones web, APIs, sistemas de escritorio, y automatización de procesos**.
-- ⚡ En constante búsqueda de **mejorar mis habilidades técnicas y aportar soluciones prácticas a problemas reales**.
-
----
 ### 🛠️ Tecnologías y herramientas que utilizo
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>

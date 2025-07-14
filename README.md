@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Matías Smania</h1>
+<h1 align="center">¡Hola! 👋 Soy Matías Ezequiel Smania</h1>
 
 <p align="center">
 💻 Desarrollador Full Stack Jr. | 📚 Estudiante de la Tecnicatura Universitaria en Programación (UTN)  
